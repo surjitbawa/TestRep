@@ -5,3 +5,5 @@ Why do you think some version control systems, like Git, allow saving multiple f
 How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
